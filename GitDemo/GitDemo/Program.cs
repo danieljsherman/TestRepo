@@ -17,6 +17,7 @@ namespace GitDemo
 
             Console.WriteLine("A new change after stash.");
             Console.WriteLine("Second stash was made and now we're committing something else.");
+            Console.WriteLine("Making some new stash.");
         }
     }
 }
