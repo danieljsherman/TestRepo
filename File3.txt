@@ -1,6 +1,0 @@
-The first line of file 3
-
-
-Stashed changes
-
-v2.0 changes to file3
