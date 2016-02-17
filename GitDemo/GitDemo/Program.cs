@@ -11,7 +11,7 @@ namespace GitDemo
         static void Main(string[] args)
         {
             //Changes on master
-            Console.WriteLine("Hello Git.");
+            Console.WriteLine("Hello Git on branch 1.1.");
         }
     }
 }

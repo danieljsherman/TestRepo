@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitDemo
 {
-    class FirstClass
+    public class FirstClass
     {
+        //I made the class public
     }
 }
