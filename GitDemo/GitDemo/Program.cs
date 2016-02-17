@@ -13,6 +13,8 @@ namespace GitDemo
             //Changes on master
             Console.WriteLine("Hello Git on branch 1.1.");
 
+            Console.WriteLine("Stashing this.");
+
             Console.WriteLine("A new change after stash.");
         }
     }
